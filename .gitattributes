@@ -1,0 +1,48 @@
+# Sources
+*.c     text diff=c   eol=lf  filter=spacify
+*.cc    text diff=cpp eol=lf  filter=spacify
+*.cxx   text diff=cpp eol=lf  filter=spacify
+*.cpp   text diff=cpp eol=lf  filter=spacify
+*.c++   text diff=cpp eol=lf  filter=spacify
+*.hpp   text diff=cpp eol=lf  filter=spacify
+*.h     text diff=c   eol=lf  filter=spacify
+*.h++   text diff=cpp eol=lf  filter=spacify
+*.hh    text diff=cpp eol=lf  filter=spacify
+
+*.m     text
+# Compiled Object files
+*.slo   binary
+*.lo    binary
+*.o     binary
+*.obj   binary
+
+# Precompiled Headers
+*.gch   binary
+*.pch   binary
+
+# Compiled Dynamic libraries
+*.so    binary
+*.dylib binary
+*.dll   binary
+
+# Compiled Static libraries
+*.lai   binary
+*.la    binary
+*.a     binary
+*.lib   binary
+
+# Executables
+*.exe   binary
+*.out   binary
+*.app   binary
+
+*.mat binary
+*.dxf binary
+*.bak binary
+
+*.pdf binary
+
+*.csv binary
+
+*.png binary
+
