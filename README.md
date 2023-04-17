@@ -53,6 +53,7 @@
 |**boundary_less_z** | float  | None | Simulation boundary. When z position of particle is lesser than **boundary_less_z**, we stop simulating.|
 
 ## Run cpp 3D simulation
+- set enviroment variable `MOPSA_ROOT` to the path of the mopsa folder
 - `mkdir build`
 - `cd build`
 - `../scripts/runMopsa3D.sh <setting_path>`
@@ -69,7 +70,7 @@
 - Same as the MOPSA3D - simulation
 
 ## Setting parameters
-- Availabe parameters are in ./3dsorter_gen_setting/*.m. 
+- Available parameters are in ./3dsorter_gen_setting/*.m. 
 
 ## Before Launch 3D generation
 - Before launch 3D sroter generation, we should set the following enviorment variables
@@ -79,7 +80,7 @@
 
 ## Launch 3D generation
 - `bin/generate3DSorter <setting_path>`
-- We can run `test_gen_3dsorter_setting.m` first to make sure the flow work.
+- Run `test_gen_3dsorter_setting.m` first to make sure the flow work.
 > `bin/generate3DSorter 3dsorter_gen_setting/test_gen_3dsorter_setting.m`
 
 ## Plotting result
