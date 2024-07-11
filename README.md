@@ -1,4 +1,13 @@
 # MOPSA3D - simulation
+
+## Simulation Result Example
+
+### With wall collision handling
+https://github.com/roberlai/mopsa3DSorterDesignAutomation/assets/56212704/4d414c6c-91aa-4171-9c35-e48747669328
+
+### Without wall collision handling
+https://github.com/roberlai/mopsa3DSorterDesignAutomation/assets/56212704/04f1a731-8e69-4d48-8465-af5cdfaceafd
+
 ## Compile
 1. `mkdir build`
 2. `cd build`
