@@ -3,10 +3,17 @@
 ## Simulation Result Example
 
 ### With wall collision handling
-https://github.com/roberlai/mopsa3DSorterDesignAutomation/assets/56212704/4d414c6c-91aa-4171-9c35-e48747669328
+
+
+https://github.com/roberlai/mopsa3DSorterDesignAutomation/assets/56212704/b6c3d4d5-0659-4e9e-80c9-dcb995d26b32
+
+
 
 ### Without wall collision handling
-https://github.com/roberlai/mopsa3DSorterDesignAutomation/assets/56212704/04f1a731-8e69-4d48-8465-af5cdfaceafd
+
+https://github.com/roberlai/mopsa3DSorterDesignAutomation/assets/56212704/b434ebc9-f7d2-4cd5-99c4-a48445948d5b
+
+
 
 ## Compile
 1. `mkdir build`
